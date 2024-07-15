@@ -2,8 +2,8 @@ import { TestimonialSectionProps } from '@/src/sections/testimonial/v1';
 
 export const testimonialSectionData: TestimonialSectionProps = {
   sectionHeading: {
-    subtitle: 'Awardees testimonial',
-    title: 'words from our 2023 awardees...',
+    subtitle: 'Temoignages de nos primés',
+    title: 'Les mots des primées de 2023...',
   },
   cards: [
     {
@@ -44,6 +44,6 @@ export const testimonialSectionData: TestimonialSectionProps = {
       speech:
         'When God gives you 1000 FCFA, remember that there is someone for whom 100 FCFA is important.',
       rating: 4,
-    }
+    },
   ],
 };

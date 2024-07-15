@@ -2,7 +2,7 @@ import { HeaderProps } from '@/src/layout/header/desktop/v1';
 
 export const menuItemsProps: HeaderProps['menuItems'] = [
   {
-    label: 'Home',
+    label: 'Accueil',
     href: '/',
     // subMenuItems: [
     //   {
@@ -16,11 +16,11 @@ export const menuItemsProps: HeaderProps['menuItems'] = [
     // ],
   },
   {
-    label: 'About',
+    label: 'A propos',
     href: '/about',
   },
   {
-    label: 'Events',
+    label: 'Evenement',
     href: '/services',
     // subMenuItems: [
     //   {
@@ -34,7 +34,7 @@ export const menuItemsProps: HeaderProps['menuItems'] = [
     // ],
   },
   {
-    label: 'Projects',
+    label: 'Projets',
     href: '/project',
     // subMenuItems: [
     //   {
@@ -82,7 +82,7 @@ export const menuItemsProps: HeaderProps['menuItems'] = [
   //   ],
   // },
   {
-    label: 'Contact',
+    label: 'Contacts',
     href: '/contact',
   },
 ];

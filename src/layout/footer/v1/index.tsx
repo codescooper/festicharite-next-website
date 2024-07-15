@@ -180,7 +180,7 @@ export function Footer({ className }: SectionProps) {
             </div>
 
             {/* Column three  */}
-            <div data-aos="fade-up" data-aos-delay="800">
+            {/* <div data-aos="fade-up" data-aos-delay="800">
               <h3 className={titleClasses}>{columnThree.title}</h3>
               {columnThree.blogs && columnThree.blogs.length > 0 && (
                 <div className="grid gap-6">
@@ -218,7 +218,7 @@ export function Footer({ className }: SectionProps) {
                   ))}
                 </div>
               )}
-            </div>
+            </div> */}
           </div>
         </Container>
       </div>

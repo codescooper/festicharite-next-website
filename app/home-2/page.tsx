@@ -1,5 +1,5 @@
 import { serviceSectionData } from '@/data/service-section/v2/home-page-2';
-import { Footer } from '@/src/layout/footer/v2';
+import { Footer } from '@/src/layout/footer/v1';
 import { MainHeader } from '@/src/layout/header';
 import { AboutSection } from '@/src/sections/about/v2';
 import { BlogSection } from '@/src/sections/blog/v2';
@@ -35,7 +35,7 @@ export default function Page() {
       <TestimonialSection />
       <StatisticsSection />
       <BlogSection />
-      <Footer className="dark:bg-accent-900" footerTopClassName="dark:!pt-0" />
+      <Footer className="dark:bg-accent-900" />
     </>
   );
 }

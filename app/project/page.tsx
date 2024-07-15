@@ -1,5 +1,5 @@
 import { projectSectionData } from '@/data/project-section/v1/list-page';
-import { Footer } from '@/src/layout/footer/v2';
+import { Footer } from '@/src/layout/footer/v1';
 import { MainHeader } from '@/src/layout/header';
 import { HeroSection } from '@/src/sections/hero/v3';
 import { ProjectSection } from '@/src/sections/project/v1';

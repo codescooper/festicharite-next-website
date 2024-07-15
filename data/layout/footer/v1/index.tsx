@@ -4,52 +4,47 @@ import { FaFacebookF, FaTwitter, FaInstagram } from 'react-icons/fa6';
 export const footerSectionData: FooterSectionProps = {
   about: {
     description:
-      'Lorem Ipsum is simply is dumi omy is text Loremo Ipsum is simply is out no our o dummy text.',
+      'FestiCharité est un événement annuel dédié à la collecte de fonds et à la sensibilisation pour diverses causes caritatives.',
     socialLinks: [
       {
         icon: <FaFacebookF />,
-        href: 'https://www.facebook.com/',
+        href: 'https://www.facebook.com/festicharite',
       },
       {
         icon: <FaTwitter />,
-        href: 'https://twitter.com/',
+        href: 'https://twitter.com/festicharite',
       },
       {
         icon: <FaInstagram />,
-        href: 'https://www.instagram.com/',
+        href: 'https://www.instagram.com/festicharite',
       },
     ],
   },
   columnOne: {
-    title: 'Get Free Link',
+    title: 'Liens utiles',
     links: [
       {
-        label: 'Software Development',
+        label: 'Nous contacter',
         href: '/',
         openNewTab: false,
       },
       {
-        label: 'Data Analytics',
+        label: 'Faire un don',
         href: '/',
         openNewTab: false,
       },
       {
-        label: 'IT Consulting',
+        label: 'Festicharité 2023',
         href: '/',
         openNewTab: false,
       },
       {
-        label: 'UI/UX Design',
+        label: 'Bénévolat',
         href: '/',
         openNewTab: false,
       },
       {
-        label: 'Network Solutions',
-        href: '/',
-        openNewTab: false,
-      },
-      {
-        label: 'Others',
+        label: 'Billeterie',
         href: '/',
         openNewTab: false,
       },
@@ -57,9 +52,13 @@ export const footerSectionData: FooterSectionProps = {
   },
   columnTwo: {
     title: 'Address',
-    location: '2972 Westheimer Rd. Santa Ana, Illinois 85486 ',
-    mails: ['debbie.baker@example.com', 'nevaeh.simm@example.com'],
-    phoneNumbers: ['(405) 555-0128', '(629) 555-0129'],
+    location: 'Yopougon Niangon Cité verte, Complexe hotelier le belevedere',
+    mails: ['infos@festicharite.com', 'festicharite@gmail.com'],
+    phoneNumbers: [
+      '(+225) 0-769-627-862',
+      '(+225) 0-574-353-838',
+      '(+225) 0-151-100-061',
+    ],
   },
   columnThree: {
     title: 'Recent Blog',

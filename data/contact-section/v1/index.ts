@@ -2,8 +2,8 @@ import { ContactSectionProps } from '@/src/sections/contact/v1';
 
 export const contactSectionData: ContactSectionProps = {
   sectionHeading: {
-    subtitle: 'Talk to us',
-    title: 'Help us to help them',
+    subtitle: 'Laissez nous un message',
+    title: 'Aidez nous à les aider',
   },
   image: {
     src: '/assets/images/contact/section-half-bg-1.png',

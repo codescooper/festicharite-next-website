@@ -29,12 +29,12 @@ export default function Page() {
       <AboutSection />
       <CtaSection />
       <ProjectSection {...projectSectionData} />
-      <StatisticsSection />
+      {/* <StatisticsSection /> */}
       <TestimonialSection />
       <PricingSection />
       <TeamSection />
       <ContactSection />
-      <BlogSection />
+      {/* <BlogSection /> */}
       <Footer />
     </>
   );

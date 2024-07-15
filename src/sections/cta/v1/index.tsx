@@ -10,7 +10,7 @@ export interface CtaSectionProps {
 }
 
 const ctaSectionData: CtaSectionProps = {
-  title: 'Have question? Feel Free To Ask',
+  title: 'Abonnez vous à notre newsletter!',
 };
 
 export function CtaSection({ className }: SectionProps) {
@@ -25,7 +25,7 @@ export function CtaSection({ className }: SectionProps) {
             </h2>
             <form className="mt-6 flex flex-col items-center justify-center gap-[.625rem] md:mt-[1.875rem] md:flex-row">
               <TextInput
-                placeholder="Enter Email"
+                placeholder="Entrez votre adresse Email"
                 className="border-white border-opacity-60 text-white placeholder:text-white focus:border-white dark:border-white dark:border-opacity-60 dark:text-white dark:placeholder:text-white"
               />
               <Button
@@ -36,7 +36,7 @@ export function CtaSection({ className }: SectionProps) {
                   'after:bg-white hover:text-accent-700 dark:hover:text-accent-700'
                 )}
               >
-                <span>SUSCRIBE</span>
+                <span>Souscrire</span>
               </Button>
             </form>
           </div>

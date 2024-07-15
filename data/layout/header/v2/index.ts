@@ -3,14 +3,14 @@ import { menuItemsProps } from '../menu';
 
 export const headerData: HeaderProps = {
   contactInfo: {
-    phone: '(629) 555-0129',
-    mail: 'info@example.com',
-    address: '6391 Elgin St. Celina, 10299',
+    phone: '+(225) 07 69 62 78 62',
+    mail: 'infos@festicharite.com',
+    address: 'Yopougon Niangon cité verte Complexe hotelier le Belvedère',
   },
   ctaBtn: {
     href: '/contact',
-    label: 'Get  A Quote',
-    openNewTab: false,
+    label: 'Billeterie',
+    openNewTab: true,
   },
   menuItems: menuItemsProps,
 };

@@ -5,7 +5,7 @@ export const heroData: HeroProps = {
     {
       image: {
         src: '/assets/images/hero/hero-1.jpg',
-        alt: 'hero 1',
+        alt: 'Trophés festicharité',
       },
       title: 'FESTIVAL INTERNATIONAL DE LA CHARITE',
       button: {
@@ -15,8 +15,8 @@ export const heroData: HeroProps = {
     },
     {
       image: {
-        src: '/assets/images/hero/hero-11.jpeg',
-        alt: 'hero 1',
+        src: '/assets/images/hero/hero-11.jpg',
+        alt: 'Remise de prix festicharité par Jhon Jay pour le compte de yvidero',
       },
       title: 'Ensemble nous pouvons et devons aider',
       button: {
@@ -27,7 +27,7 @@ export const heroData: HeroProps = {
     {
       image: {
         src: '/assets/images/hero/hero-12.jpeg',
-        alt: 'hero 1',
+        alt: 'Remise du prix festicharité à Kedjevara',
       },
       title: "Donner aux pauvres c'est donner à Dieu",
       button: {

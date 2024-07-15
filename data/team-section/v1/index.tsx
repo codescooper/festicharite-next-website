@@ -8,15 +8,15 @@ import {
 
 export const teamSectionData: TeamSectionProps = {
   sectionHeading: {
-    subtitle: 'our active members',
-    title: 'Transforming Challenges into Seamless Solutions',
+    subtitle: 'Les membres du commissariat',
+    title: 'Le festicharité vous est ochestré par une équipe devouées',
   },
   cards: [
     {
       slug: '#',
       image: {
         src: '/assets/images/team/people-1.png',
-        alt: 'Brooklyn Simmons',
+        alt: 'Ange Eric Kouassi',
       },
       socials: [
         {
@@ -36,14 +36,14 @@ export const teamSectionData: TeamSectionProps = {
           icon: <FaPinterest />,
         },
       ],
-      name: 'Brooklyn Simmons',
-      about: 'President of Sales',
+      name: 'Ange Eric Kouassi',
+      about: 'Presidente du commissariat festicharité',
     },
     {
       slug: '#',
       image: {
         src: '/assets/images/team/people-2.png',
-        alt: 'Ralph Edwards',
+        alt: 'Zakro Ursula Diane',
       },
       socials: [
         {
@@ -63,14 +63,14 @@ export const teamSectionData: TeamSectionProps = {
           icon: <FaPinterest />,
         },
       ],
-      name: 'Ralph Edwards',
-      about: 'Medical Assistant',
+      name: 'Zakro Ursula Diane',
+      about: 'Commissaire Assistante',
     },
     {
       slug: '#',
       image: {
         src: '/assets/images/team/people-3.png',
-        alt: 'Jenny Wilson',
+        alt: 'Zakro Laurent',
       },
       socials: [
         {
@@ -90,8 +90,8 @@ export const teamSectionData: TeamSectionProps = {
           icon: <FaPinterest />,
         },
       ],
-      name: 'Jenny Wilson',
-      about: 'Dog Trainer',
+      name: 'Zakro Laurent',
+      about: 'Commission Logistique',
     },
     {
       slug: '#',

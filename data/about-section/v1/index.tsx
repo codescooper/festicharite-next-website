@@ -80,34 +80,34 @@ export const aboutSectionData: AboutSectionProps = {
   images: {
     image1: {
       src: '/assets/images/about/about-1.png',
-      alt: 'about one',
+      alt: 'Don de à la MACCA lors du festicharité 2023',
       width: 195,
       height: 132,
     },
     image2: {
       src: '/assets/images/about/about-2.png',
-      alt: 'about two',
+      alt: 'Remise du prix festicharité à Mr Hassan Hayek lors du festicharité 2023',
       width: 312,
       height: 304,
     },
     image3: {
       src: '/assets/images/about/about-3.png',
-      alt: 'about three',
+      alt: 'Remise du prix festicharite 2023 à ',
       width: 250,
       height: 265,
     },
     image4: {
       src: '/assets/images/about/about-4.png',
-      alt: 'about four',
+      alt: 'Discour de Jhon Jay lors du festicharité 2023',
       width: 250,
       height: 265,
     },
   },
   sectionHeading: {
-    subtitle: 'About us',
-    title: 'Helping is our mission',
+    subtitle: 'A propos de nous',
+    title: "Aider c'est notre mission",
     description:
-      'FestiCharité is an annual event dedicated to fundraising and raising awareness for various charitable causes. We bring together associations, communities, volunteers, and participants to support initiatives aimed at improving the lives of those in need. With a variety of activities such as performances, workshops, auctions, and conferences, FestiCharité creates a friendly and dynamic space to promote solidarity and celebrate the act of giving. Our mission is to strengthen community bonds and create a positive and lasting impact on society.',
+      "FestiCharité est un événement annuel dédié à la collecte de fonds et à la sensibilisation pour diverses causes caritatives. Nous rassemblons des associations, des communautés, des bénévoles et des participants pour soutenir des initiatives visant à améliorer la vie des personnes dans le besoin. Avec une variété d'activités telles que des spectacles, des ateliers, des enchères et des conférences, FestiCharité crée un espace convivial et dynamique pour promouvoir la solidarité et célébrer l'acte de donner. Notre mission est de renforcer les liens communautaires et de créer un impact positif et durable sur la société.",
   },
   keyPoints: [
     {
@@ -120,5 +120,5 @@ export const aboutSectionData: AboutSectionProps = {
     },
   ],
   description:
-    "We invite you to join us in this mission and participate in the event.",
+    'Nous vous invitons à vous joindre à notre mission en vous joignant à cet évènement.',
 };

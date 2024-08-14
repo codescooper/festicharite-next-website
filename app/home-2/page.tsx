@@ -7,7 +7,7 @@ import { CtaSection } from '@/src/sections/cta/v2';
 import { HeroSection } from '@/src/sections/hero/v2';
 import { ProjectSection } from '@/src/sections/project/v2';
 import { projectSectionData } from '@/data/project-section/v2/home-page';
-import { PricingSection } from '@/src/sections/pricing/version-2';
+// import { PricingSection } from '@/src/sections/pricing/version-2';
 import { ServiceSection } from '@/src/sections/service/v2';
 import { StatisticsSection } from '@/src/sections/statistics/v2';
 import { TeamSection } from '@/src/sections/team/v2';
@@ -16,8 +16,9 @@ import { WorkprocessSection } from '@/src/sections/work-process/v1';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Techlab | Home verion two',
-  description: 'Techlab - IT Solutions and Services React Nextjs Template',
+  title: 'FESTICHARITE',
+  description:
+    "Festival International De La Charite, Les 03, 04, 05 et 07 septembre 2024 au centre ivoiro coreen et au palais des congrès de l'hôtel ivoire",
 };
 
 export default function Page() {
@@ -27,7 +28,7 @@ export default function Page() {
       <HeroSection />
       <ServiceSection className="!pt-0" {...serviceSectionData} />
       <CtaSection />
-      <PricingSection />
+      {/* <PricingSection /> */}
       <AboutSection />
       <WorkprocessSection />
       <ProjectSection {...projectSectionData} />

@@ -1,4 +1,4 @@
-# Techlab | IT Solutions And Services Nextjs Template
+# Festicharite - Festival International de la Charité
 
 #### Commit Prefixes
 

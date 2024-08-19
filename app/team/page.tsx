@@ -5,8 +5,8 @@ import { TeamSection } from '@/src/sections/team/grid';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Techlab | Team',
-  description: 'Techlab - IT Solutions and Services React Nextjs Template',
+  title: 'FESTICHARITE | Team',
+  description: 'FESTICHARITE - Festival International de la Charité',
 };
 
 export default function Page() {

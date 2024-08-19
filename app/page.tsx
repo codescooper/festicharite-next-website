@@ -4,7 +4,7 @@ import { Footer } from '@/src/layout/footer/v1';
 import { MainHeader } from '@/src/layout/header';
 import { AboutSection } from '@/src/sections/about/v1';
 // import { BlogSection } from '@/src/sections/blog/v1';
-import { ContactSection } from '@/src/sections/contact/v1';
+// import { ContactSection } from '@/src/sections/contact/v1';
 import { CtaSection } from '@/src/sections/cta/v1';
 import { Hero } from '@/src/sections/hero/v1';
 import { ProjectSection } from '@/src/sections/project/v1';
@@ -33,7 +33,7 @@ export default function Page() {
       <TestimonialSection />
       <PricingSection />
       <TeamSection />
-      <ContactSection />
+      {/* <ContactSection /> */}
       {/* <BlogSection /> */}
       <Footer />
     </>

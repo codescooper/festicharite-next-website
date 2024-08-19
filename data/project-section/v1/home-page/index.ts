@@ -33,7 +33,7 @@ export const projectSectionData: ProjectSectionProps = {
         src: '/assets/images/project/3.png',
         alt: 'portfolio-1',
       },
-      title: 'Dons de parcs informatique',
+      title: 'Dons de parcs informatiques',
       description:
         "Nous avons donné des parcs informatiques aux orphelinats et aux établissements pour enseigner les technologies de l'informatique.",
     },

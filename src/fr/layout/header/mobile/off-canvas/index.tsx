@@ -17,9 +17,9 @@ import { Navigation } from '../navigation';
 import { MdMenu } from 'react-icons/md';
 import {
   FaFacebookF,
-  FaTwitter,
-  FaInstagram,
-  FaLinkedinIn,
+  // FaTwitter,
+  // FaInstagram,
+  // FaLinkedinIn,
 } from 'react-icons/fa6';
 
 const mainTitleClasses = cn(
@@ -55,27 +55,27 @@ interface IOffCanvas {
 
 const offCanvasProps: IOffCanvas = {
   contactInfo: {
-    location: ' 88 broklyn street, New York',
-    phoneNumber: '+1 555-9990-153',
-    mail: 'info@example.com',
+    location: 'Yopougon Niangon cité verte, Complexe Hôtelier le BELVEDERE',
+    phoneNumber: '(+225) 01 51 10 00 61 / 07 69 62 78 62 / 05 74 35 38 38',
+    mail: 'infos@festicharite.com',
   },
   socialLinks: [
     {
       icon: <FaFacebookF />,
-      href: 'https://www.facebook.com/',
+      href: 'https://www.facebook.com/festicharite/',
     },
-    {
-      icon: <FaLinkedinIn />,
-      href: 'https://www.linkedin.com/',
-    },
-    {
-      icon: <FaTwitter />,
-      href: 'https://twitter.com/',
-    },
-    {
-      icon: <FaInstagram />,
-      href: 'https://www.instagram.com/',
-    },
+    // {
+    //   icon: <FaLinkedinIn />,
+    //   href: 'https://www.linkedin.com/',
+    // },
+    // {
+    //   icon: <FaTwitter />,
+    //   href: 'https://twitter.com/',
+    // },
+    // {
+    //   icon: <FaInstagram />,
+    //   href: 'https://www.instagram.com/',
+    // },
   ],
 };
 

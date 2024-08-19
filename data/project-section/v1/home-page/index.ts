@@ -23,9 +23,9 @@ export const projectSectionData: ProjectSectionProps = {
         src: '/assets/images/project/2.png',
         alt: 'portfolio-1',
       },
-      title: 'Dons et masterclass aux orphelinats et etablissements',
+      title: 'Dons et masterclass aux orphelinats, ONG et associations',
       description:
-        "Nous avons donné des cours de programmation aux orphelinats et aux établissements pour enseigner les technologies de l'informatique.",
+        "Nous avons donné des masterclass aux orphelinats, ONG et associations pour les former sur comment répondre aux appels d'offres internationaux.",
     },
     {
       slug: '/project/single',

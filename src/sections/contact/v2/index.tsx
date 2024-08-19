@@ -28,7 +28,7 @@ export const contactSectionData: ContactSectionProps = {
     },
     location: `Yopougon Niangon Cité Verte, Complexe Hôtelier Le BELVEDERE.`,
     mail: 'infos@festicharite.com',
-    phone: '+(225) 01 51 10 00 61 / 05 74 35 38 38 /  07 69 62 78 62'
+    phone: '+(225) 01 51 10 00 61 / 05 74 35 38 38 /  07 69 62 78 62',
   },
 };
 

@@ -64,13 +64,14 @@ export const teamSectionData: TeamSectionProps = {
         },
       ],
       name: 'Zakro Ursula Diane',
-      about: 'Commissaire Générale Adjointe à L\'organisation et l\'administration',
+      about:
+        "Commissaire Générale Adjointe à L'organisation et l'administration",
     },
     {
       slug: '#',
       image: {
         src: '/assets/images/team/people-3.png',
-        alt: 'Dr N\'Guessan',
+        alt: "Dr N'Guessan",
       },
       socials: [
         {
@@ -90,8 +91,8 @@ export const teamSectionData: TeamSectionProps = {
           icon: <FaPinterest />,
         },
       ],
-      name: 'Dr N\'Guessan',
-      about: 'Président du comité d\'organisation & Commission Santé',
+      name: "Dr N'Guessan",
+      about: "Président du comité d'organisation & Commission Santé",
     },
     {
       slug: '#',

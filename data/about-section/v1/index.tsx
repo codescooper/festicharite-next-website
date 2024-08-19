@@ -106,7 +106,8 @@ export const aboutSectionData: AboutSectionProps = {
   sectionHeading: {
     subtitle: 'A propos de nous',
     title: "Aider c'est notre mission",
-    description:"ler rendez-vous incontournable des acteurs de la Charité en Côte d'Ivoire, le Festicharité Festival International de la Charité) vise à célébrer la Charité. Il se tient autour du 05 septembre de chaque année Journée mondiale de la charite). Du 03 au 07/09/2024 à Abidjan (Côte d'Ivoire) se tiendra la 2ème édition du Festicharité sous le theme Repenser la charité en Côte d'Ivoire aux normes des 17 0DD (Objectifs de développement durable) des Nations unies"
+    description:
+      "ler rendez-vous incontournable des acteurs de la Charité en Côte d'Ivoire, le Festicharité Festival International de la Charité) vise à célébrer la Charité. Il se tient autour du 05 septembre de chaque année Journée mondiale de la charite). Du 03 au 07/09/2024 à Abidjan (Côte d'Ivoire) se tiendra la 2ème édition du Festicharité sous le theme Repenser la charité en Côte d'Ivoire aux normes des 17 0DD (Objectifs de développement durable) des Nations unies",
   },
   keyPoints: [
     {

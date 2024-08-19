@@ -3,7 +3,7 @@ import { BlogSectionProps } from '@/src/sections/blog/v2';
 export const blogSectionData: BlogSectionProps = {
   sectionHeading: {
     subtitle: 'our blogs',
-    title: 'Where charity Meets love',
+    title: 'Quelques-unes de nos actions',
   },
   ctaButton: {
     href: '/blog',

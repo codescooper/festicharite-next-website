@@ -17,7 +17,7 @@ export default function Page() {
         title="Team"
         breadcrumbItems={[
           {
-            label: 'Home',
+            label: 'Accueil',
             href: '/',
           },
           {

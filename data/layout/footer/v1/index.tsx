@@ -30,8 +30,8 @@ export const footerSectionData: FooterSectionProps = {
       },
       {
         label: 'Faire un don',
-        href: '/',
-        openNewTab: false,
+        href: 'https://www.pay.apaym.com/festicharite',
+        openNewTab: true,
       },
       {
         label: 'Festicharité 2023',
@@ -84,21 +84,21 @@ export const footerSectionData: FooterSectionProps = {
     ],
   },
   footerBottom: {
-    copyrightText: '© Yoursitename  2024 | All Rights Reserved',
+    copyrightText: '© FESTICHARITE 2024 | All Rights Reserved',
     links: [
+      // {
+      //   label: 'Trams & Condition',
+      //   href: '/',
+      //   openNewTab: false,
+      // },
       {
-        label: 'Trams & Condition',
-        href: '/',
+        label: 'Faire un don',
+        href: 'https://www.pay.apaym.com/festicharite',
         openNewTab: false,
       },
       {
-        label: 'Privacy Policy',
-        href: '/',
-        openNewTab: false,
-      },
-      {
-        label: 'Contact Us',
-        href: '/',
+        label: 'Contactez nous',
+        href: '/contact',
         openNewTab: false,
       },
     ],

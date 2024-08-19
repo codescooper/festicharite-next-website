@@ -18,7 +18,7 @@ export default function Page() {
         title="Project"
         breadcrumbItems={[
           {
-            label: 'Home',
+            label: 'Accueil',
             href: '/',
           },
           {

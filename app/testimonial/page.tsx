@@ -18,7 +18,7 @@ export default function Page() {
         title="Testimonial"
         breadcrumbItems={[
           {
-            label: 'Home',
+            label: 'Accueil',
             href: '/',
           },
           {

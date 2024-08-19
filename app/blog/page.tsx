@@ -17,7 +17,7 @@ export default function Page() {
         title="Blog Classic"
         breadcrumbItems={[
           {
-            label: 'Home',
+            label: 'Accueil',
             href: '/',
           },
           {

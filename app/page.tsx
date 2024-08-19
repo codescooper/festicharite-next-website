@@ -16,8 +16,8 @@ import { TestimonialSection } from '@/src/sections/testimonial/v1';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Techlab | Home',
-  description: 'Techlab - IT Solutions and Services React Nextjs Template',
+  title: 'FESTICHARITE | Accueil',
+  description: 'FESTICHARITE - Festival International de la Charité',
 };
 
 export default function Page() {

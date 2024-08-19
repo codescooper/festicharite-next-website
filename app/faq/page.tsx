@@ -17,7 +17,7 @@ export default function Page() {
         title="Faq"
         breadcrumbItems={[
           {
-            label: 'Home',
+            label: 'Accueil',
             href: '/',
           },
           {

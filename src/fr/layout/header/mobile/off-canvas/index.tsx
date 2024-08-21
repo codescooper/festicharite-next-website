@@ -55,7 +55,7 @@ interface IOffCanvas {
 
 const offCanvasProps: IOffCanvas = {
   contactInfo: {
-    location: 'Yopougon Niangon cité verte, Complexe Hôtelier le BELVEDERE',
+    location: 'Yopougon Niangon cité verte, Complexe  le BELVEDERE',
     phoneNumber: '(+225) 01 51 10 00 61 / 07 69 62 78 62 / 05 74 35 38 38',
     mail: 'infos@festicharite.com',
   },

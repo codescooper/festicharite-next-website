@@ -26,7 +26,7 @@ export const contactSectionData: ContactSectionProps = {
       description:
         'Si notre formulaire de contact est momentanément indisponible, ne vous inquiétez pas ! Nous mettons à votre disposition plusieurs autres moyens pour nous joindre',
     },
-    location: `Yopougon Niangon Cité Verte, Complexe Hôtelier Le BELVEDERE.`,
+    location: `Yopougon Niangon Cité Verte, Complexe  Le BELVEDERE.`,
     mail: 'infos@festicharite.com',
     phone: '+(225) 01 51 10 00 61 / 05 74 35 38 38 /  07 69 62 78 62',
   },
@@ -93,11 +93,10 @@ export function ContactSection() {
                   <FaLink />
                 </span>
                 <div>
-                  <h3 className={addressTitleClasses}>
-                    Faire un don via APAYM PRO
-                  </h3>
-                  <a href="https://pay.apaym.com/festicharite">
-                    {contactInfo.phone}
+                  <a href="https://pay.apaym.com/festicharite" target='_blank'>
+                    <h3 className={addressTitleClasses}>
+                      Faire un don via APAYM PRO
+                    </h3>
                   </a>
                 </div>
               </li>
@@ -106,11 +105,10 @@ export function ContactSection() {
                   <FaLink />
                 </span>
                 <div>
-                  <h3 className={addressTitleClasses}>
-                    Faire un don via PAYPAL
-                  </h3>
-                  <a href="https://pay.apaym.com/festicharite">
-                    {contactInfo.phone}
+                  <a href="https://paypal.me/festicharite" target='_blank'>
+                    <h3 className={addressTitleClasses}>
+                      Faire un don via PAYPAL
+                    </h3>
                   </a>
                 </div>
               </li>

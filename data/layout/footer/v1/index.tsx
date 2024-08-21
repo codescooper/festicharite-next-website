@@ -30,7 +30,7 @@ export const footerSectionData: FooterSectionProps = {
       },
       {
         label: 'Faire un don',
-        href: 'https://www.pay.apaym.com/festicharite',
+        href: 'https://pay.apaym.com/festicharite',
         openNewTab: true,
       },
       {
@@ -52,7 +52,7 @@ export const footerSectionData: FooterSectionProps = {
   },
   columnTwo: {
     title: 'Address',
-    location: 'Yopougon Niangon Cité verte, Complexe hotelier le belevedere',
+    location: 'Yopougon Niangon Cité verte, Complexe le BELVEDERE',
     mails: ['infos@festicharite.com', 'festicharite@gmail.com'],
     phoneNumbers: [
       '(+225) 0-769-627-862',
@@ -93,8 +93,8 @@ export const footerSectionData: FooterSectionProps = {
       // },
       {
         label: 'Faire un don',
-        href: 'https://www.pay.apaym.com/festicharite',
-        openNewTab: false,
+        href: 'https://pay.apaym.com/festicharite',
+        openNewTab: true,
       },
       {
         label: 'Contactez nous',

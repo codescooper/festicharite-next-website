@@ -3,16 +3,16 @@ import { TestimonialSectionProps } from '@/src/sections/testimonial/v1';
 export const testimonialSectionData: TestimonialSectionProps = {
   sectionHeading: {
     subtitle: 'Temoignages de nos primés',
-    title: 'Les mots des primées de 2023...',
+    title: 'Les mots des primés de 2023...',
   },
   cards: [
     {
       person: {
         image: {
           src: '/assets/images/testimonial/person-1.jpg',
-          alt: "Representant de l'Imam Cissé",
+          alt: "Représentant de l'Imam Cissé",
         },
-        name: "Representant de l'Imam Cissé",
+        name: "Représentant de l'Imam Cissé",
         about: 'Prix Festicharité 2023',
       },
       speech:

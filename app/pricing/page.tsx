@@ -6,8 +6,8 @@ import { PricingSection } from '@/src/sections/pricing/version-2';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Techlab | Pricing',
-  description: 'Techlab - IT Solutions and Services React Nextjs Template',
+  title: 'Festicharité | Pricing',
+  description: 'FESTICHARITE - Festival International de la Charité',
 };
 
 export default function Page() {
@@ -18,7 +18,7 @@ export default function Page() {
         title="Team"
         breadcrumbItems={[
           {
-            label: 'Home',
+            label: 'Accueil',
             href: '/',
           },
           {

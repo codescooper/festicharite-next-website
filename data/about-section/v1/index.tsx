@@ -107,7 +107,7 @@ export const aboutSectionData: AboutSectionProps = {
     subtitle: 'A propos de nous',
     title: "Aider c'est notre mission",
     description:
-      "FestiCharité est un événement annuel dédié à la collecte de fonds et à la sensibilisation pour diverses causes caritatives. Nous rassemblons des associations, des communautés, des bénévoles et des participants pour soutenir des initiatives visant à améliorer la vie des personnes dans le besoin. Avec une variété d'activités telles que des spectacles, des ateliers, des enchères et des conférences, FestiCharité crée un espace convivial et dynamique pour promouvoir la solidarité et célébrer l'acte de donner. Notre mission est de renforcer les liens communautaires et de créer un impact positif et durable sur la société.",
+      "1er rendez-vous incontournable des acteurs de la Charité en Côte d'Ivoire, le Festicharité Festival International de la Charité) vise à célébrer la Charité. Il se tient autour du 05 septembre de chaque année Journée mondiale de la charite). Du 03 au 07/09/2024 à Abidjan (Côte d'Ivoire) se tiendra la 2ème édition du Festicharité sous le theme Repenser la charité en Côte d'Ivoire aux normes des 17 0DD (Objectifs de développement durable) des Nations unies",
   },
   keyPoints: [
     {

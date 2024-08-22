@@ -8,9 +8,9 @@ import {
 import { cn } from '@/src/utils/shadcn';
 import {
   FaFacebookF,
-  FaTwitter,
-  FaInstagram,
-  FaLinkedinIn,
+  // FaTwitter,
+  // FaInstagram,
+  // FaLinkedinIn,
 } from 'react-icons/fa6';
 import { FaEnvelope, FaPhone } from 'react-icons/fa6';
 import { FaMapMarkerAlt } from 'react-icons/fa';
@@ -53,29 +53,29 @@ interface IOffCanvas {
 
 const offCanvasProps: IOffCanvas = {
   description:
-    'Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old.',
+    "1er rendez-vous incontournable des acteurs de la Charité en Côte d'Ivoire, le Festicharité Festival International de la Charité) vise à célébrer la Charité. Il se tient autour du 05 septembre de chaque année Journée mondiale de la charite). Du 03 au 07/09/2024 à Abidjan (Côte d'Ivoire) se tiendra la 2ème édition du Festicharité sous le theme Repenser la charité en Côte d'Ivoire aux normes des 17 0DD (Objectifs de développement durable) des Nations unies",
   contactInfo: {
-    location: ' 88 broklyn street, New York',
-    phoneNumber: '+1 555-9990-153',
-    mail: 'info@example.com',
+    location: 'Yopougon Niangon cité verte, Complexe  le BELVEDERE',
+    phoneNumber: '(+225) 01 51 10 00 61 / 07 69 62 78 62 / 05 74 35 38 38',
+    mail: 'infos@festicharite.com',
   },
   socialLinks: [
     {
       icon: <FaFacebookF />,
-      href: 'https://www.facebook.com/',
+      href: 'https://www.facebook.com/festicharite/',
     },
-    {
-      icon: <FaLinkedinIn />,
-      href: 'https://www.linkedin.com/',
-    },
-    {
-      icon: <FaTwitter />,
-      href: 'https://twitter.com/',
-    },
-    {
-      icon: <FaInstagram />,
-      href: 'https://www.instagram.com/',
-    },
+    // {
+    //   icon: <FaLinkedinIn />,
+    //   href: 'https://www.linkedin.com/',
+    // },
+    // {
+    //   icon: <FaTwitter />,
+    //   href: 'https://twitter.com/',
+    // },
+    // {
+    //   icon: <FaInstagram />,
+    //   href: 'https://www.instagram.com/',
+    // },
   ],
 };
 

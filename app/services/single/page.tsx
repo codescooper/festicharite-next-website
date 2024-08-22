@@ -17,7 +17,7 @@ export default function Page() {
         title="Event Details"
         breadcrumbItems={[
           {
-            label: 'Home',
+            label: 'Accueil',
             href: '/',
           },
           {

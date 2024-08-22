@@ -71,10 +71,10 @@ export const menuItemsProps: HeaderProps['menuItems'] = [
   //       label: 'Team',
   //       href: '/team',
   //     },
-  //     {
-  //       label: 'Pricing',
-  //       href: '/pricing',
-  //     },
+  {
+    label: 'Billeterie',
+    href: '/pricing',
+  },
   //     {
   //       label: 'FAQ',
   //       href: '/faq',

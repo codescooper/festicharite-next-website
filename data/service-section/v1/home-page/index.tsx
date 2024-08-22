@@ -48,15 +48,15 @@ export const serviceSectionData: ServiceSectionProps = {
   services: [
     {
       icon: <Icon1 />,
-      title: 'Festival International de la Charité Edition 2024',
-      description: 'Découvrez le programme de cette année',
-      slug: '/Events/Festival-International-de-la-Charité-Edition-2024',
-    },
-    {
-      icon: <Icon2 />,
       title: 'Festival International de la Charité Edition 2023',
       description: 'Revivez en images les événements du Festicharité 2023',
       slug: '/Events/Festival-International-de-la-Charité-Edition-2023',
+    },
+    {
+      icon: <Icon2 />,
+      title: 'Festival International de la Charité Edition 2024',
+      description: 'Découvrez le programme de cette année',
+      slug: '/Events/Festival-International-de-la-Charité-Edition-2024',
     },
   ],
 };

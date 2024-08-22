@@ -3,20 +3,20 @@ import { TestimonialSectionProps } from '@/src/sections/testimonial/v1';
 export const testimonialSectionData: TestimonialSectionProps = {
   sectionHeading: {
     subtitle: 'Temoignages de nos primés',
-    title: 'Les mots des primées de 2023...',
+    title: 'Les mots des primés de 2023...',
   },
   cards: [
     {
       person: {
         image: {
           src: '/assets/images/testimonial/person-1.jpg',
-          alt: "Representant de l'Imam Cissé",
+          alt: "Représentant de l'Imam Cissé",
         },
-        name: "Representant de l'Imam Cissé",
+        name: "Représentant de l'Imam Cissé",
         about: 'Prix Festicharité 2023',
       },
       speech:
-        "Giving frees the spirit, giving opens hearts. Let's continue to give to bring joy.",
+        "Donner libère l'esprit, donner ouvre les cœurs. Continuons à donner pour apporter de la joie.",
       rating: 4,
     },
     {
@@ -29,7 +29,7 @@ export const testimonialSectionData: TestimonialSectionProps = {
         about: 'Prix Festicharité 2023',
       },
       speech:
-        "Let's continue to give, because those who give always receive in one way or another.",
+        "Continuons à donner, car ceux qui donnent reçoivent toujours d'une manière ou d'une autre.",
       rating: 5,
     },
     {
@@ -42,7 +42,7 @@ export const testimonialSectionData: TestimonialSectionProps = {
         about: 'Prix Festicharité 2023',
       },
       speech:
-        'When God gives you 1000 FCFA, remember that there is someone for whom 100 FCFA is important.',
+        "Quand Dieu te donne 1000 FCFA, rappelle-toi qu'il y a quelqu'un pour qui 100 FCFA est important.",
       rating: 4,
     },
   ],

@@ -3,9 +3,9 @@ import { menuItemsProps } from '../menu';
 
 export const headerData: HeaderProps = {
   contactInfo: {
-    phone: '+(225) 07 69 62 78 62',
+    phone: '+(225) 01 51 10 00 61',
     mail: 'infos@festicharite.com',
-    address: 'Yopougon Niangon cité verte Complexe hotelier le Belvedère',
+    address: 'Yopougon Niangon cité verte Complexe  le BELVEDERE',
   },
   ctaBtn: {
     href: '/contact',

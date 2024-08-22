@@ -29,7 +29,7 @@ export const footerSectionData: FooterSectionProps = {
     title: 'Quick Links',
     links: [
       {
-        label: 'Home',
+        label: 'Accueil',
         href: '/',
         openNewTab: false,
       },
@@ -116,7 +116,7 @@ export const footerSectionData: FooterSectionProps = {
     location: '1212, Lav Vegas, The Veg Street, USA',
   },
   footerBottom: {
-    copyrightText: '© Yoursitename  2024 | All Rights Reserved',
+    copyrightText: '© FESTICHARITE 2024 | All Rights Reserved',
     links: [
       {
         label: 'Trams & Condition',

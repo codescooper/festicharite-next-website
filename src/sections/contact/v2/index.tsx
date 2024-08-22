@@ -3,7 +3,7 @@ import { SectionHeading } from '@/src/components/section-heading';
 import { SectionHeadingWithoutStylingProps } from '@/src/components/section-heading/interface';
 import { Form } from './form';
 import { cn } from '@/src/utils/shadcn';
-import { FaEnvelope, FaPhone } from 'react-icons/fa6';
+import { FaEnvelope, FaLink, FaPhone } from 'react-icons/fa6';
 import { FaMapMarkerAlt } from 'react-icons/fa';
 
 export interface ContactSectionProps {
@@ -18,18 +18,17 @@ export interface ContactSectionProps {
 
 export const contactSectionData: ContactSectionProps = {
   sectionHeading: {
-    title: 'Feel free to messege',
+    title: 'Formulaire saturé en cours de maintenance',
   },
   contactInfo: {
     sectionHeading: {
-      title: 'Get in touch ',
+      title: 'Restons en contact',
       description:
-        'It is a long established fact that a reader will be distrol acted bioiiy desig the rea dablea contentIt is a long established fact that a reader will be ',
+        'Si notre formulaire de contact est momentanément indisponible, ne vous inquiétez pas ! Nous mettons à votre disposition plusieurs autres moyens pour nous joindre',
     },
-    location: `Dhaka 102, utl 1216, road 45 house
-shantighar rahuta, 1213`,
-    mail: 'ijmnhhasan000@yourmail.com',
-    phone: '0000-0000-00-000',
+    location: `Yopougon Niangon Cité Verte, Complexe  Le BELVEDERE.`,
+    mail: 'infos@festicharite.com',
+    phone: '+(225) 01 51 10 00 61 / 05 74 35 38 38 /  07 69 62 78 62',
   },
 };
 
@@ -63,7 +62,7 @@ export function ContactSection() {
                   <FaMapMarkerAlt />
                 </span>
                 <div>
-                  <h3 className={addressTitleClasses}>Address</h3>
+                  <h3 className={addressTitleClasses}>Adresse</h3>
                   <address className="not-italic">
                     {contactInfo.location}
                   </address>
@@ -74,7 +73,7 @@ export function ContactSection() {
                   <FaEnvelope />
                 </span>
                 <div>
-                  <h3 className={addressTitleClasses}>Email Address</h3>
+                  <h3 className={addressTitleClasses}>Adresse mail</h3>
                   <a href={`mailto:${contactInfo.mail}`}>{contactInfo.mail}</a>
                 </div>
               </li>
@@ -83,9 +82,33 @@ export function ContactSection() {
                   <FaPhone />
                 </span>
                 <div>
-                  <h3 className={addressTitleClasses}>Phone number</h3>
+                  <h3 className={addressTitleClasses}>Numéros de téléphone</h3>
                   <a href={`tel:${contactInfo.phone.split(' ').join('')}`}>
                     {contactInfo.phone}
+                  </a>
+                </div>
+              </li>
+              <li className={addressItemClasses}>
+                <span className={addressIconParentClasses}>
+                  <FaLink />
+                </span>
+                <div>
+                  <a href="https://pay.apaym.com/festicharite" target='_blank'>
+                    <h3 className={addressTitleClasses}>
+                      Faire un don via APAYM PRO
+                    </h3>
+                  </a>
+                </div>
+              </li>
+              <li className={addressItemClasses}>
+                <span className={addressIconParentClasses}>
+                  <FaLink />
+                </span>
+                <div>
+                  <a href="https://paypal.me/festicharite" target='_blank'>
+                    <h3 className={addressTitleClasses}>
+                      Faire un don via PAYPAL
+                    </h3>
                   </a>
                 </div>
               </li>

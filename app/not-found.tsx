@@ -15,7 +15,7 @@ export default function NotFound() {
           </p>
           <div className="mt-8 lg:mt-10">
             <Button asChild>
-              <CustomLink href="/">Home Page</CustomLink>
+              <CustomLink href="/">Accueil</CustomLink>
             </Button>
           </div>
         </div>

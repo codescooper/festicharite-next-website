@@ -6,8 +6,8 @@ import { MapSection } from '@/src/sections/map-section';
 import { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Techlab | Contact',
-  description: 'Techlab - IT Solutions and Services React Nextjs Template',
+  title: 'FESTICHARITE | Contact',
+  description: 'FESTICHARITE - Festival International de la Charité',
 };
 
 export default function Page() {
@@ -15,14 +15,14 @@ export default function Page() {
     <>
       <MainHeader version="2" />
       <HeroSection
-        title="Contact Us"
+        title="Contactez nous"
         breadcrumbItems={[
           {
-            label: 'Home',
+            label: 'Accueil',
             href: '/',
           },
           {
-            label: 'Contact Us',
+            label: 'Contactez nous',
           },
         ]}
       />

@@ -93,7 +93,7 @@ export function ContactSection() {
                   <FaLink />
                 </span>
                 <div>
-                  <a href="https://pay.apaym.com/festicharite" target='_blank'>
+                  <a href="https://pay.apaym.com/festicharite" target="_blank">
                     <h3 className={addressTitleClasses}>
                       Faire un don via APAYM PRO
                     </h3>
@@ -105,7 +105,7 @@ export function ContactSection() {
                   <FaLink />
                 </span>
                 <div>
-                  <a href="https://paypal.me/festicharite" target='_blank'>
+                  <a href="https://paypal.me/festicharite" target="_blank">
                     <h3 className={addressTitleClasses}>
                       Faire un don via PAYPAL
                     </h3>

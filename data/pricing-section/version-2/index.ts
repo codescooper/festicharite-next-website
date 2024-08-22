@@ -5,7 +5,7 @@ export const pricingSectionData: PricingSectionProps = {
     {
       title: "Ticket N'zassa",
       description:
-        "Ticket standard assistez au Gala de charité au palais des congrès de l'hotêl ivoire, vennez decouvrir l'expérience festicharité dans toute sa beauté.",
+        "Ticket standard assistez au Gala de charité au palais des congrès de l'hotêl ivoire, venez découvrir l'expérience festicharité dans toute sa beauté.",
       features: ['Gala de charité', 'Festival de charité'],
       price: '30.000 FCFA',
       duration: '/événement',
@@ -18,7 +18,7 @@ export const pricingSectionData: PricingSectionProps = {
     {
       title: 'Ticket Bogolan',
       description:
-        "Participez à l'évènement et inscrivez votre nom parmis les acteurs du festival international de charité 2eme Edition.",
+        "Participez à l'évènement et inscrivez votre nom parmi les acteurs du festival international de la charité 2eme Edition.",
       features: [
         'Gala de charité',
         'Festival de charité',
@@ -35,7 +35,7 @@ export const pricingSectionData: PricingSectionProps = {
     {
       title: 'Ticket Kita',
       description:
-        "Soyez à l'honneur du Festicharité 2eme Edition et beneficiez de nombreux avantages ainsi qu'un acces privilegié au backstage du gala de charité.",
+        "Soyez à l'honneur du Festicharité 2eme Edition et beneficiez de nombreux avantages ainsi qu'un accès privilegié au backstage du gala de charité.",
       features: [
         'Gala de charité',
         'Festival de charité',

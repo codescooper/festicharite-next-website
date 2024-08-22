@@ -9,7 +9,7 @@ export const pricingSectionData: PricingSectionProps = {
     {
       title: 'Pass Nzassa',
       description:
-        "Ticket standard assistez au Gala de charité au palais des congrès de l'hotêl ivoire, vennez decouvrir l'expérience festicharité dans toute sa beauté.",
+        "Ticket standard assistez au Gala de charité au palais des congrès de l'hotêl ivoire, venez découvrir l'expérience festicharité dans toute sa beauté.",
       features: ['Gala de charité', 'Festival de charité'],
       price: '30 000 FCFA',
       duration: '/événement',

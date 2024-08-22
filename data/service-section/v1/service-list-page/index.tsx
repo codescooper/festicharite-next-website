@@ -101,7 +101,7 @@ export const serviceSectionData: ServiceSectionProps = {
       icon: <Icon2 />,
       title: 'Festival International de la Charité Edition 2023',
       description: 'Revivez en images les événements du Festicharité 2023',
-      slug: '/services/single',
+      slug: 'https://www.facebook.com/100095231063502/videos',
     },
     // {
     //   icon: <Icon3 />,

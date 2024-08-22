@@ -45,7 +45,7 @@ export const projectSectionData: ProjectSectionProps = {
       },
       title: 'Projet 0 faim en millieu scolaire',
       description:
-        'Nous avons develloppé des cultures et des cantines mobiles pour des établissements scolaires.',
+        'Nous avons developpé des cultures et des cantines mobiles pour des établissements scolaires.',
     },
   ],
 };

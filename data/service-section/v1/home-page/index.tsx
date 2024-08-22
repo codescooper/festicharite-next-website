@@ -50,13 +50,14 @@ export const serviceSectionData: ServiceSectionProps = {
       icon: <Icon1 />,
       title: 'Festival International de la Charité Edition 2023',
       description: 'Revivez en images les événements du Festicharité 2023',
-      slug: '/Events/Festival-International-de-la-Charité-Edition-2023',
+      slug: 'https://www.facebook.com/100095231063502/videos',
     },
     {
       icon: <Icon2 />,
       title: 'Festival International de la Charité Edition 2024',
       description: 'Découvrez le programme de cette année',
       slug: '/Events/Festival-International-de-la-Charité-Edition-2024',
+
     },
   ],
 };

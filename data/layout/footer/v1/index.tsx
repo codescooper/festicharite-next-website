@@ -25,7 +25,7 @@ export const footerSectionData: FooterSectionProps = {
     links: [
       {
         label: 'Nous contacter',
-        href: '/',
+        href: '/contact',
         openNewTab: false,
       },
       {
@@ -40,7 +40,7 @@ export const footerSectionData: FooterSectionProps = {
       },
       {
         label: 'Festicharité 2023',
-        href: '/',
+        href: 'https://www.facebook.com/100095231063502/videos',
         openNewTab: false,
       },
       {
@@ -50,7 +50,7 @@ export const footerSectionData: FooterSectionProps = {
       },
       {
         label: 'Billeterie',
-        href: '/',
+        href: '/pricing',
         openNewTab: false,
       },
     ],

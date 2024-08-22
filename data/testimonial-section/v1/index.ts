@@ -25,7 +25,7 @@ export const testimonialSectionData: TestimonialSectionProps = {
           src: '/assets/images/testimonial/person-2.jpg',
           alt: 'Unknow',
         },
-        name: 'Unknow',
+        name: 'Mme Félicité Ngouandi Representante du Dga Lonaci',
         about: 'Prix Festicharité 2023',
       },
       speech:

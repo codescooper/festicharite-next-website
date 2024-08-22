@@ -29,8 +29,13 @@ export const footerSectionData: FooterSectionProps = {
         openNewTab: false,
       },
       {
-        label: 'Faire un don',
+        label: 'Faire un don APAYM PRO',
         href: 'https://pay.apaym.com/festicharite',
+        openNewTab: true,
+      },
+      {
+        label: 'Faire un don PAYPAL',
+        href: 'https://paypal.me/festicharite',
         openNewTab: true,
       },
       {
@@ -92,8 +97,13 @@ export const footerSectionData: FooterSectionProps = {
       //   openNewTab: false,
       // },
       {
-        label: 'Faire un don',
+        label: 'Faire un don APAYM PRO',
         href: 'https://pay.apaym.com/festicharite',
+        openNewTab: true,
+      },
+      {
+        label: 'Faire un don PAYPAL',
+        href: 'https://paypal.me/festicharite',
         openNewTab: true,
       },
       {

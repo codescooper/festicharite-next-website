@@ -1,4 +1,4 @@
-export interface IContainer {
+ export interface IContainer {
   /**
    * The content or components to be rendered inside the container.
    * @type {React.ReactNode}

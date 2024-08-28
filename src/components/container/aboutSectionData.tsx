@@ -38,13 +38,13 @@ export const aboutSectionData: AboutSectionProps = {
     {
       icon: <Icon1 />,
       title: "J'achete mon ticket pour le festiCharité 2024",
-    url: "/"
+      url: '/',
     },
 
     {
       icon: <Icon2 />,
       title: "Je m'engage pour le festiCharité 2024",
-      url: "/"
+      url: '/',
     },
   ],
   description:

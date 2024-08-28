@@ -10,7 +10,7 @@ export const heroData: HeroProps = {
       title: 'FESTIVAL INTERNATIONAL DE LA CHARITE',
       button: {
         label: 'Participer maintenant',
-        href: '/',
+        href: 'http://localhost:3000/services/single',
       },
     },
     {
@@ -21,7 +21,7 @@ export const heroData: HeroProps = {
       title: 'Ensemble nous pouvons et devons aider',
       button: {
         label: 'Participer maintenant',
-        href: '/',
+        href: 'http://localhost:3000/services/single',
       },
     },
     {
@@ -32,7 +32,7 @@ export const heroData: HeroProps = {
       title: "Donner aux pauvres c'est donner à Dieu",
       button: {
         label: 'Participer maintenant',
-        href: '/',
+        href: 'http://localhost:3000/services/single',
       },
     },
   ],

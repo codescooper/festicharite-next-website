@@ -1,6 +1,5 @@
 import { ImageProps, blurDataUrl } from '@/src/common-types';
-import { CustomLink } from '@/src/components/custom-link';
-import { cn } from '@/src/utils/shadcn';
+/*import { CustomLink } from '@/src/components/custom-link'*/ import { cn } from '@/src/utils/shadcn';
 import Image from 'next/image';
 import { FaArrowRightLong } from 'react-icons/fa6';
 
@@ -17,7 +16,7 @@ export function ServiceCard({
   icon,
   title,
   description,
-  slug,
+  //slug,
 }: ServiceProps) {
   return (
     <article
@@ -69,35 +68,10 @@ export function ServiceCard({
         </div>
       </div>
       <div className="flex flex-col items-center justify-center gap-2.5 px-30px py-10 text-center">
-        <h3 className="text-md font-bold leading-[1.25] md:text-lg">
-          <CustomLink
-            href={slug}
-            className="text-accent-900 transition-colors duration-300 hover:text-primary dark:text-white dark:hover:text-primary"
-          >
-            {title}
-          </CustomLink>
-        </h3>
+        <h3 className="text-md font-bold leading-[1.25] md:text-lg">{title}</h3>
         <p className="mb-2.5 text-accent-800 dark:text-body">{description}</p>
-        <CustomLink
-          href={slug}
-          className={cn(
-            // Normal
-            // General
-            'relative z-1 grid h-10 w-10 place-items-center rounded-5 bg-primary/10 text-sm text-primary transition-colors duration-300 dark:bg-accent-900',
 
-            // After
-            'after:absolute after:inset-0 after:-z-1 after:origin-top after:rounded-[inherit] after:bg-primary after:transition-all after:duration-700 after:[transform:perspective(400px)_rotateX(-90deg)_scale(0.2)]',
-
-            // Hover
-            // after
-            'group-hover:after:opacity-100 group-hover:after:[transform:perspective(400px)_rotateX(0deg)_scale(1.0)]',
-
-            // Content
-            'group-hover:text-white'
-          )}
-        >
-          <FaArrowRightLong />
-        </CustomLink>
+        <FaArrowRightLong />
       </div>
     </article>
   );

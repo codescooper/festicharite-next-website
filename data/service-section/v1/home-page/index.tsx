@@ -57,7 +57,6 @@ export const serviceSectionData: ServiceSectionProps = {
       title: 'Festival International de la Charité Edition 2024',
       description: 'Découvrez le programme de cette année',
       slug: '/Events/Festival-International-de-la-Charité-Edition-2024',
-
     },
   ],
 };

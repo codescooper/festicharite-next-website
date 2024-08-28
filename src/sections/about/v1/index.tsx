@@ -1,4 +1,4 @@
-import { aboutSectionData } from '@/data/about-section/v1';
+import { aboutSectionData } from '@/src/components/container/aboutSectionData';
 import { ImageProps } from '@/src/common-types';
 import { Container } from '@/src/components/container';
 import { SectionHeading } from '@/src/components/section-heading';
@@ -18,6 +18,7 @@ export interface AboutSectionProps {
   keyPoints: {
     icon: React.ReactNode;
     title: string;
+    url: string;
   }[];
   description?: string;
 }

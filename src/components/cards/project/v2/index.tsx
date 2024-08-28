@@ -23,7 +23,6 @@ export function ProjectCard({
   image,
   title,
   description,
-  onClick,
 }: PortfolioCardProps & {
   onClick: () => void;
 }) {
@@ -49,7 +48,6 @@ export function ProjectCard({
           className="transition-transform duration-1000 ease-in-out group-hover/project:scale-105"
         />
         <button
-          onClick={onClick}
           className={cn(
             'absolute left-1/2 top-1/2 z-[2] grid h-[60px] w-[60px] place-items-center rounded-full bg-white text-[25px] text-accent-700 [transform:translate(-50%,-50%)] [transition:.5s]',
 

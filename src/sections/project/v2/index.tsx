@@ -10,8 +10,7 @@ import {
 import { LinkProps } from '@/src/common-types';
 import { Container } from '@/src/components/container';
 import { Button } from '@/src/components/button';
-import { CustomLink } from '@/src/components/custom-link';
-import { cn } from '@/src/utils/shadcn';
+/*import { CustomLink } from '@/src/components/custom-link'*/ import { cn } from '@/src/utils/shadcn';
 import React, { useEffect, useRef, useState } from 'react';
 import Lightbox, { Slide } from 'yet-another-react-lightbox';
 import 'yet-another-react-lightbox/styles.css';
@@ -92,9 +91,9 @@ export function ProjectSection({
             <SectionHeading {...sectionHeading} alignment="start" />
           </div>
           <Button asChild className="flex-none">
-            <CustomLink href={link.href} openNewTab={link.openNewTab}>
-              <span className="relative z-1">{link.label}</span>
-            </CustomLink>
+            {/* <CustomLink href={link.href} openNewTab={link.openNewTab}> */}
+            <span className="relative z-1">{link.label}</span>
+            {/* </CustomLink> */}
           </Button>
         </div>
 

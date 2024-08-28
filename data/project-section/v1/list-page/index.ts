@@ -38,7 +38,7 @@ export const projectSectionData: ProjectSectionProps = {
         "Nous avons donné des parcs informatiques aux orphelinats et aux établissements pour enseigner les technologies de l'informatique.",
     },
     {
-      slug: '/project/single',
+      slug: '',
       image: {
         src: '/assets/images/project/4.png',
         alt: 'portfolio-1',

@@ -230,12 +230,17 @@ export function ServiceDetailsSection() {
                       <FaCircleCheck />
                     </span>
                     <h3 className="flex-1 text-md font-bold text-accent-700 dark:text-white">
-                      Best Emplementation
+                      LA MASTERCLASS
                     </h3>
                   </div>
                   <p>
-                    ished fact that a reader will be distrol acted bioiiy desig
-                    ished fact that a reader will acted bioiiy desig.
+                    Une masterclass est cruciale pour obtenir des financements
+                    étrangers en vous offrant des compétences essentielles pour
+                    rédiger des propositions convaincantes et gérer des fonds
+                    efficacement. Elle aide également à booster votre visibilité
+                    en les dotant des stratégies nécessaires pour vous
+                    promouvoir efficacement et attirer l&#39;attention des
+                    donateurs internationaux.
                   </p>
                 </div>
                 <div className="grid gap-3">
@@ -244,65 +249,202 @@ export function ServiceDetailsSection() {
                       <FaCircleCheck />
                     </span>
                     <h3 className="flex-1 text-md font-bold text-accent-700 dark:text-white">
-                      Best Emplementation
+                      LE FESTIN DE CHARITE
                     </h3>
                   </div>
                   <p>
-                    ished fact that a reader will be distrol acted bioiiy desig
-                    ished fact that a reader will acted bioiiy desig.
+                    Un festin de charité rassemble orphelins, veuves et
+                    personnes en situation de handicap pour offrir un moment de
+                    partage et de soutien, tout en collectant des fonds pour
+                    améliorer leur quotidien. Cet événement crée une opportunité
+                    de solidarité et d&#39;entraide tout en sensibilisant la
+                    communauté à leurs besoins.
                   </p>
                 </div>
               </div>
             </div>
+            <div>
+              <div>
+                <div className="grid gap-5"></div>
+                <div className="flex items-center gap-4"></div>
+                <span className="flex-none text-base/[1] text-primary">
+                  <FaCircleCheck />
+                </span>
+                <h1 className="flex-1 text-md font-bold text-accent-700 dark:text-white">
+                  LE PROGRAMME
+                </h1>
+                <strong>
+                  <p>
+                    <li>
+                      <u>03/09/2024 à 10H:</u> Masterclass développement
+                      personnel et motivation aux femmes et mineurs de la PPA
+                      &#40;ex MACA /Don de vivres et produits divers.&#41;
+                      <p>
+                        <u>THEME:</u> &laquo;Donner aux pauvres, c&apos;est
+                        prêter à Dieu&raquo;
+                      </p>
+                    </li>
+                  </p>
+                  <p>
+                    <li>
+                      <u>04/09/2024 à 09H:</u> Masterclass/Conférence avec les
+                      ONG/Associations de Côte d&#39;Ivoire au CENTRE
+                      IVOIRO-COREEN.
+                      <p>
+                        <u>THEME:</u> &laquo;Repenser la charité en Côte
+                        d&apos;Ivoire aux normes des 17 objectifs de
+                        développoment durable des nations unies&raquo;
+                      </p>
+                    </li>
+                  </p>
+                  <p>
+                    <li>
+                      <u>03 &amp; 04/09/2024 de 09H à 18H:</u> 3000 Visites
+                      médicales gratuites pour les élèves orphélns &#40;en
+                      prélude à la rentrée scolaire.&#41;
+                    </li>
+                  </p>
+                  <p>
+                    <li>
+                      <u>05/09/2024 à 10H:</u> Festin de charité au centre
+                      IVOIRO-COREEN avec des orphelins, veuves, aveugles,
+                      personnes en situation de handicap, lépreux, malades/
+                      Festicharité kids/ Concert de charité, Atelier sur
+                      l&#39;économie numérique/ Lutte contre la
+                      Cybercriminalité/ Civisme.
+                    </li>
+                  </p>
+                  <p>
+                    <u>THEMES:</u>
+                    <p>
+                      <p>
+                        &rarr;&laquo;Donnez leur vous-même à manger&raquo; Luc
+                        9:13
+                      </p>
+                      <p>
+                        &rarr;&laquo;Nous serons dans le paradis moi et celui
+                        qui s&#39;occupe de l&#39;orphelin comme cela&raquo; et
+                        il fil un signe avec l&apos;index et le majeur&#40;{' '}
+                        <u>
+                          Rapporte par Boukhari dans son Sahih n°5304 du
+                          Coran&#41;
+                        </u>
+                      </p>
+                    </p>
+                  </p>
+                  <p>
+                    <li>
+                      <u>07/09/2024 à 20H:</u>Gala de charité au Palais des
+                      congrès de l&#39;Hôtel Vente de charité/Collecte de
+                      fonds/Tombola/Remise de prix aux meilleurs acteurs de la
+                      charité en Côte d&#39;Ivoire/Prix de la meilleure oeuvre
+                      de charité.
+                      <p>
+                        <u>THEME DU GALA:</u> &laquo;il y&apos;a plus de joie à
+                        donner qu&apos;à recevoir&raquo;
+                      </p>
+                    </li>
+                  </p>
+                </strong>
 
-            <p>
-              Aliquam eros justo, posuere loborti viverra lao ullamcorper
-              posuere viverra .Aliquam eros justo, posuere lobortis non, viverra
-              laoreet augue mattis start fermentum ullamcor viverra laoreet By
-              Admin . Creativity . 28th February 2022 . Leave a comment viverra
-              laoreet augue mattis start fermentum start fermentum
-            </p>
-
-            <div className="mt-2.5 grid grid-cols-[1fr_260px] gap-6">
-              <div className="grid items-baseline gap-6 lg:gap-9">
-                <div>
-                  <h3 className="text-md font-bold text-accent-700 dark:text-white">
-                    Best Emplementation
-                  </h3>
-                  <p>
-                    ished fact that a reader will be distrol acted bioiiy desig
-                    the.ished fact that a reader will be distrol acted bioiiy
-                    bioiiy desig the.ished fact that a reader.
-                  </p>
-                </div>
-                <div>
-                  <h3 className="text-md font-bold text-accent-700 dark:text-white">
-                    Design make for you.
-                  </h3>
-                  <p>
-                    ished fact that a reader will be distrol acted bioiiy desig
-                    the.ished fact that a reader will be distrol acted bioiiy
-                    bioiiy desig the.ished fact that a reader.
-                  </p>
-                </div>
-                <div>
-                  <h3 className="text-md font-bold text-accent-700 dark:text-white">
-                    Finished the process
-                  </h3>
-                  <p>
-                    ished fact that a reader will be distrol acted bioiiy desig
-                    the.ished fact that a reader will be distrol acted bioiiy
-                    bioiiy desig the.ished fact that a reader.
-                  </p>
+                <div className="mt-2.5 grid grid-cols-[1fr_260px] gap-6">
+                  <div className="grid items-baseline gap-6 lg:gap-9">
+                    <div>
+                      <h3 className="text-md font-bold text-accent-700 dark:text-white">
+                        La semaine de la charité
+                      </h3>
+                      <p>
+                        <strong>
+                          <p>
+                            <li>50 orphelinats réunis,</li>
+                          </p>
+                          <p>
+                            <li>
+                              3 hôpitaux visités &#40;3000 plats offerts aux
+                              malades&lpar;
+                            </li>
+                          </p>
+                          <p>
+                            <li>7000 veuves et orphelinats réunis</li>
+                          </p>
+                          <p>
+                            <li>10.000 repas offerts</li>
+                          </p>
+                          <p>
+                            <li>3000 visites medicales gratuites</li>
+                          </p>
+                          <p>
+                            <li>3000 enfants orphelin scolarisés</li>
+                          </p>
+                          <p>
+                            <li>1000 prisonniers visités</li>
+                          </p>
+                          <p>
+                            <li>100 personnalités charitables primées</li>
+                          </p>
+                          <p>
+                            <li>Prix de la meilleure oeuvre de charité</li>
+                          </p>
+                        </strong>
+                      </p>
+                    </div>
+                    <div>
+                      <h3 className="text-md font-bold text-accent-700 dark:text-white">
+                        <span>Participer au FETICHARITE</span> &amp; Remporter
+                      </h3>
+                      <p>
+                        <strong>
+                          <li>
+                            LE PRIX DE L&apos;ORGANISATION DE LA SOCIETE CIVILE
+                            LA PLUS CHARITABLE
+                          </li>
+                          <li>
+                            LE PRIX DE L&apos;ORGANISATION RELIGIEUSE LA PLUS
+                            CHARITABLE
+                          </li>
+                          <li>
+                            LE PRIX DE L&apos;ENTREPRISE PUBLIQUE LA PLUS
+                            CHARITABLE
+                          </li>
+                          <li>
+                            LE PRIX DE L&apos;ENTREPRISE PRIVEE LA PLUS
+                            CHARITABLE
+                          </li>
+                          <li>
+                            LE PRIX DE L&apos;INSTITUTION LA PLUS CHARITABLE
+                          </li>
+                          <li>LE PRIX DE LA COMMUNE LA PLUS CHARITABLE</li>
+                          <li>
+                            LE PRIX SPECIAL DE L&apos;IVOIRIEN LE PLUS
+                            CHARITABLE
+                          </li>
+                        </strong>
+                      </p>
+                    </div>
+                  </div>
+                  <Image
+                    src="/assets/images/service-details/image-3.png"
+                    alt="service image 2"
+                    width={640}
+                    height={870}
+                    className="rounded-5"
+                  />
+                  <div>
+                    <h3 className="fond-bold text-md text-accent-700 dark:text-white">
+                      <strong>Comment Participer?</strong>
+                    </h3>
+                    <p>
+                      <p> Contribuer à hauteur de 1000FCFA minimum </p>
+                      <p>
+                        <strong>OU</strong>
+                      </p>
+                      <p>
+                        Collecter des vivres en nature &#40;non périssables&#41;
+                      </p>
+                    </p>
+                  </div>
                 </div>
               </div>
-              <Image
-                src="/assets/images/service-details/image-3.png"
-                alt="service image 2"
-                width={640}
-                height={870}
-                className="rounded-5"
-              />
             </div>
           </div>
         </div>

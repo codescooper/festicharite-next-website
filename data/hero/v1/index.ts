@@ -7,10 +7,10 @@ export const heroData: HeroProps = {
         src: '/assets/images/hero/hero-1.jpg',
         alt: 'Trophés festicharité',
       },
-      title: 'FESTIVAL INTERNATIONAL DE LA CHARITE',
+      title: 'FESTIVAL INTERNATIONAL DE LA CHARITE Edition 2025',
       button: {
         label: 'Participer maintenant',
-        href: 'http://localhost:3000/services/single',
+        href: 'https://docs.google.com/forms/d/e/1FAIpQLScsDpXU2Vxx31X9f7_a60JkBIT4eX96mhvj4_aPz4UW-eDx-g/viewform?usp=header',
       },
     },
     {
@@ -21,7 +21,7 @@ export const heroData: HeroProps = {
       title: 'Ensemble nous pouvons et devons aider',
       button: {
         label: 'Participer maintenant',
-        href: 'http://localhost:3000/services/single',
+        href: 'https://docs.google.com/forms/d/e/1FAIpQLScsDpXU2Vxx31X9f7_a60JkBIT4eX96mhvj4_aPz4UW-eDx-g/viewform?usp=header',
       },
     },
     {
@@ -32,7 +32,7 @@ export const heroData: HeroProps = {
       title: "Donner aux pauvres c'est donner à Dieu",
       button: {
         label: 'Participer maintenant',
-        href: 'http://localhost:3000/services/single',
+        href: 'https://docs.google.com/forms/d/e/1FAIpQLScsDpXU2Vxx31X9f7_a60JkBIT4eX96mhvj4_aPz4UW-eDx-g/viewform?usp=header',
       },
     },
   ],

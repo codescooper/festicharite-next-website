@@ -55,7 +55,7 @@ interface IOffCanvas {
 
 const offCanvasProps: IOffCanvas = {
   contactInfo: {
-    location: 'Yopougon Niangon cité verte, Complexe  le BELVEDERE',
+    location: 'Yopougon Km17 cité ADO non loin du groupe scolaire PIBELECAA',
     phoneNumber: '(+225) 01 51 10 00 61 / 07 69 62 78 62 / 05 74 35 38 38',
     mail: 'infos@festicharite.com',
   },

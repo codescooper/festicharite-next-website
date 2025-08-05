@@ -98,7 +98,7 @@ export const teamSectionData: TeamSectionProps = {
       slug: '#',
       image: {
         src: '/assets/images/team/people-4.png',
-        alt: 'Mr Zakro Laurent',
+        alt: 'Feu Mr Zakro Laurent',
       },
       socials: [
         {
@@ -118,7 +118,7 @@ export const teamSectionData: TeamSectionProps = {
           icon: <FaPinterest />,
         },
       ],
-      name: 'Zakro Laurent Simon',
+      name: 'Feu Zakro Laurent Simon',
       about: 'Commissaire Logistique & Transport',
     },
     // {

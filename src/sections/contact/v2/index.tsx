@@ -26,7 +26,7 @@ export const contactSectionData: ContactSectionProps = {
       description:
         'Si notre formulaire de contact est momentanément indisponible, ne vous inquiétez pas ! Nous mettons à votre disposition plusieurs autres moyens pour nous joindre',
     },
-    location: `Yopougon Niangon Cité Verte, Complexe  Le BELVEDERE.`,
+    location: `Yopougon Km17 cité ADO non loin du groupe scolaire PIBELECAA.`,
     mail: 'infos@festicharite.com',
     phone: '+(225) 01 51 10 00 61 / 05 74 35 38 38 /  07 69 62 78 62',
   },

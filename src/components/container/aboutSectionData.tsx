@@ -32,7 +32,7 @@ export const aboutSectionData: AboutSectionProps = {
     subtitle: 'A propos de nous',
     title: "Aider c'est notre mission",
     description:
-      "1er rendez-vous incontournable des acteurs de la Charité en Côte d'Ivoire, le Festicharité – Festival International de la Charité vise à célébrer la Charité sous toutes ses formes et à inspirer un engagement collectif autour des causes humanitaires. Organisé chaque année autour du 5 septembre, à l’occasion de la Journée mondiale de la Charité, le Festicharité revient en 2025 pour sa 3ᵉ édition. 📍 Du 12 au 14 août 2025, à Abidjan (Côte d'Ivoire), cette nouvelle édition rassemblera associations, donateurs, entreprises, institutions, artistes et citoyens engagés, sous le thème : 🎯 « Une charité active, inclusive et durable », en cohérence avec les Objectifs de Développement Durable (ODD) des Nations unies.",
+      "1er rendez-vous incontournable des acteurs de la Charité en Côte d'Ivoire, le Festicharité – Festival International de la Charité vise à célébrer la Charité sous toutes ses formes et à inspirer un engagement collectif autour des causes humanitaires. Organisé chaque année autour du 5 septembre, à l’occasion de la Journée mondiale de la Charité, le Festicharité revient en 2025 pour sa 3ᵉ édition. 📍 le 14 août 2025, à Abidjan (Côte d'Ivoire), cette nouvelle édition rassemblera associations, donateurs, entreprises, institutions, artistes et citoyens engagés, sous le thème : 🎯  « Montage de projets et Opportunités de financements par les bailleurs de fonds internationaux », en cohérence avec les Objectifs de Développement Durable (ODD) des Nations unies.",
   },
   keyPoints: [
     {

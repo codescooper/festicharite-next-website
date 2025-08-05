@@ -39,13 +39,13 @@ export const footerSectionData: FooterSectionProps = {
         openNewTab: true,
       },
       {
-        label: 'Festicharité 2023',
+        label: 'Editions precedentes',
         href: 'https://www.facebook.com/100095231063502/videos',
         openNewTab: false,
       },
       {
         label: 'Bénévolat',
-        href: '/',
+        href: 'https://forms.gle/neL8sMN9Swv82AEa8',
         openNewTab: false,
       },
       {
